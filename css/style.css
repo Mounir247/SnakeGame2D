@@ -1,0 +1,21 @@
+body{
+    background-color: #6b5757;
+    background-image: url('../images/jungle_pic_2.jpg');
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: relative;
+}
+
+canvas{
+    border: 8px solid #000000;
+    border-radius: 10px;
+    background-color: #bfee82;
+    opacity: 0.7;
+}
+drawScore{
+    color: yellow;
+}
+test{
+    color: #ff0000;
+}
